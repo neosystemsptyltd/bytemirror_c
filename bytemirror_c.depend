@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452265575 source:/home/armand/ownCloud/Projects/General/bytemirror_c/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
